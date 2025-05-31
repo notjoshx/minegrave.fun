@@ -52,7 +52,7 @@ const Hero = () => {
           </div>
           
           <h1 className="hero-heading opacity-0 animate-on-scroll animate-delay-200">
-            Elevate Your <span className="text-gradient">Online</span> Experience
+            <span className="text-gradient">MineGrave</span>
           </h1>
           
           <p className="mt-6 text-lg md:text-xl text-foreground/70 max-w-3xl mx-auto opacity-0 animate-on-scroll animate-delay-400">
